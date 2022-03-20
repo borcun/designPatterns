@@ -1,0 +1,6 @@
+/Users/boo/Projects/DesignPatterns/Creational/FactoryPatterns/FactoryPatterns/obj/Debug/FactoryPatterns.csproj.AssemblyReference.cache
+/Users/boo/Projects/DesignPatterns/Creational/FactoryPatterns/FactoryPatterns/obj/Debug/FactoryPatterns.csproj.CoreCompileInputs.cache
+/Users/boo/Projects/DesignPatterns/Creational/FactoryPatterns/FactoryPatterns/bin/Debug/FactoryPatterns.exe
+/Users/boo/Projects/DesignPatterns/Creational/FactoryPatterns/FactoryPatterns/bin/Debug/FactoryPatterns.pdb
+/Users/boo/Projects/DesignPatterns/Creational/FactoryPatterns/FactoryPatterns/obj/Debug/FactoryPatterns.exe
+/Users/boo/Projects/DesignPatterns/Creational/FactoryPatterns/FactoryPatterns/obj/Debug/FactoryPatterns.pdb
