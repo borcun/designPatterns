@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7A4164F9-2ADD-4F0A-902E-245B3CB8DB3D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory/Program.cs">
+    <Files>
+      <File FileName="AbstractFactory/Program.cs" Line="21" Column="74" />
+      <File FileName="AbstractFactory/FurnitureFactory.cs" Line="10" Column="27" />
+      <File FileName="AbstractFactory/VictorianFurnitureFactory.cs" Line="17" Column="1" />
+      <File FileName="AbstractFactory/ModernFurnitureFactory.cs" Line="6" Column="64" />
+      <File FileName="AbstractFactory/ModernChair.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory/VictorianChair.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactory" expanded="True">
+            <Node name="AbstractFactory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="AbstractFactory" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
