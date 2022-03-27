@@ -1,0 +1,6 @@
+/Users/boo/Projects/DesignPatterns/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.csproj.AssemblyReference.cache
+/Users/boo/Projects/DesignPatterns/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/boo/Projects/DesignPatterns/AbstractFactory/AbstractFactory/bin/Debug/AbstractFactory.exe
+/Users/boo/Projects/DesignPatterns/AbstractFactory/AbstractFactory/bin/Debug/AbstractFactory.pdb
+/Users/boo/Projects/DesignPatterns/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.exe
+/Users/boo/Projects/DesignPatterns/AbstractFactory/AbstractFactory/obj/Debug/AbstractFactory.pdb
