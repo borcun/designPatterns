@@ -15,6 +15,7 @@ namespace FactoryPatterns
             return transport.Deliver();
         }
 
+        // this is abstract method, expected to being implemented in derived classes
         public abstract ITransport CreateTransport();
     }
 }
